@@ -30,6 +30,13 @@ Retrieval-augmented QA over private PDFs: OCR fallback for scanned documents,
 sentence-boundary chunking, ChromaDB retrieval, and a ROUGE-scored evaluation set
 so the quality claims are checkable.
 
+**[tv-writer-ai](https://github.com/NickTrapp/tv-writer-ai)** — A workspace for
+writing a TV pilot with a language model, where output is a branch rather than an
+answer. Every step generates competing alternatives; promoting one folds it into
+the project's canon, which then constrains everything generated afterwards, so the
+model can't contradict a choice you locked in three scenes ago. Next.js, Prisma,
+Gemini.
+
 **[linking-wikipedia-pages](https://github.com/NickTrapp/linking-wikipedia-pages)** —
 BFS, iterative-deepening DFS and simplified PageRank over the SNAP Wikipedia link
 graph. C++, course team project.
