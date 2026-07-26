@@ -47,4 +47,4 @@ Python · C++ · TypeScript · PyTorch · Gurobi · Docker · AWS
 
 ### Elsewhere
 
-[nicktrapp.com](https://nicktrapp.com) · [ndtrapp2@illinois.edu](mailto:ndtrapp2@illinois.edu)
+[nicktrapp.com](https://nicktrapp.com) · [ndtrapp2@illinois.edu](mailto:ndtrapp2@illinois.edu) 
