@@ -18,6 +18,12 @@ Engineering faster exact solvers for the auction Winner Determination Problem.
 Branching guidance gives up to 11× over Gurobi's default on hard mid-size
 instances — and is slower on the largest one tested, which is in the README too.
 
+**[approximate-vcg-manipulation](https://github.com/NickTrapp/approximate-vcg-manipulation)** —
+A game-theory study of the same auctions from the incentive side: time-limited VCG
+solvers open a profitable bid manipulation (overbid 5×, profitable 72–75% of the time
+at 5–10% of exact solve time) that collapses under more solve time. Traces it to a
+branch-and-bound *anchor effect*. [Write-up →](https://nicktrapp.github.io/approximate-vcg-manipulation/)
+
 **[tv-writer-ai](https://github.com/NickTrapp/tv-writer-ai)** — A workspace for
 writing a TV pilot with a language model, where output is a branch rather than an
 answer. Every step generates competing alternatives; promoting one folds it into
